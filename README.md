@@ -1,4 +1,4 @@
-![Vonage + Orbit](.github/logo.png)
+
 
 # Enter Our Orbit
 
